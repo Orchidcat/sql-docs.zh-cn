@@ -37,7 +37,7 @@ Microsoft 几乎每天都会更新其 [Docs.Microsoft.com](http://docs.microsoft
 
 
 
-- 更新日期范围：从 2017-09-11 到 2017-09-27&nbsp;&nbsp;&nbsp;
+- 更新日期范围：从 017-09-28 到 2017-12-02&nbsp;&nbsp;&nbsp;
 - *主题区域：* &nbsp; **在 Linux 上的 Microsoft SQL Server**。
 
 
