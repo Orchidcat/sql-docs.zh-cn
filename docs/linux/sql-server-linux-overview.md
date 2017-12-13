@@ -44,13 +44,13 @@ SQL Server 2017 现在在 Linux 上运行。 它属于相同的 SQL Server 数�
 
 | 工具 | 教程 |
 |-----|-----|
-| Visual Studio Code (VS Code) | [将用于在 Linux 上的 SQL Server 的 VS Code](sql-server-linux-develop-use-vscode.md) |
-| SQL Server Management Studio (SSMS) | [Windows 上使用 SSMS 连接到 Linux 上的 SQL Server](sql-server-linux-develop-use-ssms.md) |
-| SQL Server Data Tools (SSDT) | [结合使用 SSDT 与在 Linux 上的 SQL Server](sql-server-linux-develop-use-ssdt.md) |
+| Visual Studio Code (VS Code) | [使用VS Code进行Linux上SQL Server的开发](sql-server-linux-develop-use-vscode.md) |
+| SQL Server Management Studio (SSMS) | [使用Windows平台上的SSMS进行Linux上SQL Server的开发](sql-server-linux-develop-use-ssms.md) |
+| SQL Server Data Tools (SSDT) | [使用SSDT进行Liunx上SQL Server的开发](sql-server-linux-develop-use-ssdt.md) |
 
 ## <a name="explore"></a>浏览
 
-SQL Server 2017 在所有支持的平台（包括 Linux）上具有相同的基础数据库引擎。 因此，在 Linux 上，许多现有功能运行方式相同。 文档的此区域显示的一些从 Linux 角度来看这些功能。 它还调用出有独特的需求在 Linux 的区域。
+SQL Server 2017 在所有支持的平台（包括 Linux）上具有相同的基础数据库引擎。 许多现有功能运行方式在Linux上也是相同的。 本文将从Linux的角度来展示这些功能。同时也说明了对应Linux的一些特殊要求。
 
 如果你已熟悉 SQL Server，请查看[发行说明](sql-server-linux-release-notes.md)有关的一般指导方针和对于此版本的已知的问题。 然后查看[什么是用于在 Linux 上的 SQL Server 的新功能](sql-server-linux-whats-new.md)以及[的 SQL Server 2017 总体最近更新](../sql-server/what-s-new-in-sql-server-2017.md)。
 
