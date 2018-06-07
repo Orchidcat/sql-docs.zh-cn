@@ -484,7 +484,7 @@ CREATE AVAILABILITY GROUP group_name
 ## <a name="examples"></a>示例  
   
 ### <a name="a-configuring-backup-on-secondary-replicas-flexible-failover-policy-and-connection-access"></a>A. 针对辅助副本、灵活的故障转移策略和连接访问配置备份  
- 下面的示例为两个用户数据库 `MyAg` 和 `ThisDatabase` 创建了名为 `ThatDatabase` 的可用性组。 下表总结了为作为一个整体为可用性组设置的选项指定的值。  
+ 下面的示例为两个用户数据库 `ThisDatabase`  和  `ThatDatabase`  创建了名为`MyAg`的可用性组。 下表总结了为作为一个整体为可用性组设置的选项指定的值。  
   
 |组选项|设置|Description|  
 |------------------|-------------|-----------------|  
